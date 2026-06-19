@@ -95,6 +95,7 @@ Estoy en una etapa donde cada semana aprendo algo que hace que el código de la 
 | [🏦 Sistema Bancario](https://github.com/RandyCabrera08/Tarea-de-hoy) | C# · POO | Simulación bancaria con clases Cliente y Banco |
 | [👥 Sistema de Empleados](https://github.com/RandyCabrera08/-Empleados) | C# · Arrays | Gestión de empleados con búsqueda del mayor salario |
 | [📊 Arrays](https://github.com/RandyCabrera08/Arrays) | C# · Algoritmos | Ejercicios prácticos de manipulación de arreglos |
+| [📚 BookShop](https://github.com/acevedorandy/BookShop) | C# · .NET | Aplicación de librería en línea desarrollada en equipo · Proyecto colaborativo |
 
 </div>
 
