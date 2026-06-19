@@ -14,19 +14,28 @@
 
 ## 👨‍💻 Sobre mí
 
-```json
-{
-  "nombre":    "Randy Leandro Cabrera",
-  "rol":       "Dev en formación · Backend & Full-Stack",
-  "lenguajes": ["C#", "JavaScript", "TypeScript"],
-  "enfoque":   "Backend, APIs REST, Web Full-Stack",
-  "stack":     ["C#", ".NET", "React", "Node.js", "PostgreSQL", "Docker"],
-  "aprendiendo": ["ASP.NET Core", "Arquitectura de software", "Design Patterns"],
-  "estado":    "✅ Disponible para colaborar"
-}
-```
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding"/>
 
-Apasionado por resolver problemas reales con código limpio. Mi enfoque principal ha sido **C# y la programación orientada a objetos**, construyendo sistemas desde cajeros automáticos hasta aplicaciones full-stack con IA integrada. Cada proyecto es una oportunidad para crecer — **commit a commit**.
+Hola, soy **Randy** — un desarrollador con hambre de construir cosas reales.
+
+No vine de un bootcamp ni de una carrera terminada. Vine de sentarme a programar hasta entender **por qué funciona**, no solo **cómo usarlo**. Cada proyecto que subo aquí representa horas de depuración, de leer documentación, de romper algo y arreglarlo mejor.
+
+Mi lenguaje principal es **C#** — lo uso para pensar en objetos, en responsabilidades, en sistemas que escalan. Pero también construyo en **React + TypeScript + Node.js** cuando el problema lo pide.
+
+Mi proyecto más ambicioso hasta ahora fue **SIGER**: un sistema de gestión de restaurante full-stack construido en equipo real, con roles de usuario, módulos de cocina, inventario, reportes y un **asistente de IA integrado**. 51 commits. Trabajo colaborativo de verdad.
+
+Estoy en una etapa donde cada semana aprendo algo que hace que el código de la semana anterior se vea torpe — y me encanta eso.
+
+<br clear="right"/>
+
+```text
+🚀  Construyendo    →  Proyectos full-stack con C#, React y Node.js
+🌱  Aprendiendo     →  Clean Architecture · Design Patterns · ASP.NET Core
+🤝  Buscando        →  Colaborar en equipos reales y proyectos con impacto
+⚡  Dato curioso    →  Mi primer programa fue un cajero automático en C#
+📍  Ubicación       →  Disponible para trabajo remoto
+📫  Contacto        →  randyleandrocabrera@gmail.com
+```
 
 ---
 
